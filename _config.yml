@@ -5,12 +5,10 @@ menu:
   Archives: archives
 
 social:
-  email:
-  twitter:
-  weibo:
-  github:
-  googleplus:
-  rss: /atom.xml
+  email: magicalne@gmail.com
+  twitter: magicalne
+  github: magicalne
+  googleplus: magicalne
 
 # Content
 fancybox: true # set to true if you want to use it
