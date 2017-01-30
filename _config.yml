@@ -3,6 +3,8 @@ menu:
   ## If your site is put in a subdirectory, set Home as '/child/'
   Home: /
   Archives: archives
+  About: about
+
 
 social:
   email: magicalne@gmail.com
